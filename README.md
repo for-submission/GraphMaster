@@ -98,17 +98,4 @@ Example Results:
 
 If you used the manually extracted data, the result might be not accurate due to the human equation.
 
-## Contact
-
-If any problems, please send an email to:
-
-Tong Xie, tong.xie@unsw.edu.au
-
-Created by
-
-**University of New South Wales** Tong
-
-**University of Melbourne** Ran
-
-**University of California, Bekerley**  Nather 
 
